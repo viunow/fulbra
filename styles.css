@@ -1,0 +1,4675 @@
+.mediaViewInfo {
+    --web-view-name: Fulbra Talentos - Empresa;
+    --web-view-id: Fulbra_Talentos_-_Empresa;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Fulbra_Talentos_-_Empresa;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    font-family: Montserrat;
+}
+#Fulbra_Talentos_-_Empresa {
+    position: absolute;
+    width: 1440px;
+    height: 4339px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Fulbra Talentos - Empresa;
+    --web-view-id: Fulbra_Talentos_-_Empresa;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#fundos {
+    position: absolute;
+    width: 1440.266px;
+    height: 2195px;
+    left: 0px;
+    top: 702.5px;
+    overflow: visible;
+}
+#Retngulo_13 {
+    fill: rgba(247,247,247,1);
+}
+.Retngulo_13 {
+    position: absolute;
+    overflow: visible;
+    width: 1440px;
+    height: 1297px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_1 {
+    position: absolute;
+    width: 288.266px;
+    height: 288.265px;
+    left: 1152px;
+    top: 608.735px;
+    overflow: visible;
+}
+#Caminho_1 {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_1 {
+    overflow: visible;
+    position: absolute;
+    width: 288.266px;
+    height: 288.265px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_2 {
+    position: absolute;
+    width: 229.697px;
+    height: 229.697px;
+    left: 1210.569px;
+    top: 667.303px;
+    overflow: visible;
+}
+#Caminho_2 {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_2 {
+    overflow: visible;
+    position: absolute;
+    width: 229.697px;
+    height: 229.697px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_3 {
+    position: absolute;
+    width: 171.128px;
+    height: 171.128px;
+    left: 1269.139px;
+    top: 725.872px;
+    overflow: visible;
+}
+#Caminho_3 {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_3 {
+    overflow: visible;
+    position: absolute;
+    width: 171.127px;
+    height: 171.128px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_8805 {
+    position: absolute;
+    width: 239.337px;
+    height: 239.337px;
+    left: 0px;
+    top: 1955.663px;
+    overflow: visible;
+}
+#Grupo_8779 {
+    transform: translate(0px, -2658.163px) matrix(1,0,0,1,-0.0004,2658.163) rotate(90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 239.337px;
+    height: 239.337px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_1_r {
+    position: absolute;
+    width: 239.337px;
+    height: 239.336px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Caminho_1_s {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_1_s {
+    overflow: visible;
+    position: absolute;
+    width: 239.337px;
+    height: 239.337px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_2_t {
+    position: absolute;
+    width: 190.709px;
+    height: 190.709px;
+    left: 0px;
+    top: 48.628px;
+    overflow: visible;
+}
+#Caminho_2_u {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_2_u {
+    overflow: visible;
+    position: absolute;
+    width: 190.709px;
+    height: 190.709px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_3_v {
+    position: absolute;
+    width: 142.081px;
+    height: 142.082px;
+    left: 0px;
+    top: 97.256px;
+    overflow: visible;
+}
+#Caminho_3_w {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_3_w {
+    overflow: visible;
+    position: absolute;
+    width: 142.082px;
+    height: 142.081px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#instituies {
+    position: absolute;
+    width: 971.117px;
+    height: 213.065px;
+    left: 235.442px;
+    top: 3229px;
+    overflow: visible;
+}
+#INSTITUIES_DE_ENSINO_PARCEIRAS {
+    left: 275.558px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 421px;
+    white-space: nowrap;
+    line-height: 77px;
+    margin-top: -30.5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(0,78,255,1);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+#Grupo_8801 {
+    position: absolute;
+    width: 971.117px;
+    height: 121px;
+    left: 0px;
+    top: 92.064px;
+    overflow: visible;
+}
+#lenovo-logo-0 {
+    position: absolute;
+    width: 121px;
+    height: 121px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#John-Deere-Logo {
+    position: absolute;
+    width: 123.612px;
+    height: 69.532px;
+    left: 634px;
+    top: 26.169px;
+    overflow: visible;
+}
+#FedEx-Logo {
+    position: absolute;
+    width: 122.117px;
+    height: 68.691px;
+    left: 849px;
+    top: 26.169px;
+    overflow: visible;
+}
+#Amazon-Logo {
+    position: absolute;
+    width: 123.612px;
+    height: 69.532px;
+    left: 420px;
+    top: 26.169px;
+    overflow: visible;
+}
+#Tilibra-logosvg {
+    position: absolute;
+    width: 117.664px;
+    height: 56.074px;
+    left: 211px;
+    top: 32.898px;
+    overflow: visible;
+}
+#empresas {
+    position: absolute;
+    width: 971.612px;
+    height: 213.065px;
+    left: 235px;
+    top: 2898px;
+    overflow: visible;
+}
+#EMPRESAS_PARCEIRAS {
+    left: 361px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    line-height: 77px;
+    margin-top: -30.5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(0,78,255,1);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+#Grupo_8802 {
+    position: absolute;
+    width: 971.612px;
+    height: 121px;
+    left: 0px;
+    top: 92.064px;
+    overflow: visible;
+}
+#lenovo-logo-0_ {
+    position: absolute;
+    width: 121px;
+    height: 121px;
+    left: 427px;
+    top: 0px;
+    overflow: visible;
+}
+#John-Deere-Logo_ {
+    position: absolute;
+    width: 123.612px;
+    height: 69.532px;
+    left: 848px;
+    top: 26.169px;
+    overflow: visible;
+}
+#FedEx-Logo_ba {
+    position: absolute;
+    width: 122.117px;
+    height: 68.691px;
+    left: 0px;
+    top: 26.169px;
+    overflow: visible;
+}
+#Amazon-Logo_bb {
+    position: absolute;
+    width: 123.612px;
+    height: 69.532px;
+    left: 213px;
+    top: 26.169px;
+    overflow: visible;
+}
+#Tilibra-logosvg_bc {
+    position: absolute;
+    width: 117.664px;
+    height: 56.074px;
+    left: 639px;
+    top: 32.898px;
+    overflow: visible;
+}
+#rodap {
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    left: 1px;
+    top: 3542px;
+    overflow: visible;
+}
+#fundo5 {
+    fill: rgba(4,28,43,1);
+}
+.fundo5 {
+    position: absolute;
+    overflow: visible;
+    width: 1440px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+}
+#Home {
+    left: 720px;
+    top: 112px;
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Fique_por_dentro {
+    left: 160px;
+    top: 112px;
+    position: absolute;
+    overflow: visible;
+    width: 274px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(49,219,212,1);
+}
+#Oportunidades {
+    left: 720px;
+    top: 195px;
+    position: absolute;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Perguntas_Frequentes {
+    left: 720px;
+    top: 279px;
+    position: absolute;
+    overflow: visible;
+    width: 258px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Blog {
+    left: 720px;
+    top: 362px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Fale_Conosco {
+    left: 720px;
+    top: 446px;
+    position: absolute;
+    overflow: visible;
+    width: 154px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Fulbra {
+    left: 720px;
+    top: 529px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    line-height: 50px;
+    margin-top: -14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Digite_seu_e-mail_e_assine_nos {
+    left: 160px;
+    top: 160px;
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 18px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Retngulo_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,0.302);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 416px;
+    height: 63px;
+    left: 160px;
+    top: 216px;
+}
+#Digite_seu_nome {
+    left: 205px;
+    top: 238px;
+    position: absolute;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Retngulo_4_bp {
+    fill: transparent;
+    stroke: rgba(255,255,255,0.302);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_4_bp {
+    position: absolute;
+    overflow: visible;
+    width: 416px;
+    height: 63px;
+    left: 160px;
+    top: 291px;
+}
+#Digite_seu_melhor_e-mail {
+    left: 205px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 176px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#ASSINAR {
+    left: 478px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(49,219,212,1);
+}
+#LIGUE {
+    left: 1072px;
+    top: 112px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 16px;
+    line-height: 60px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(49,219,212,1);
+    letter-spacing: 2px;
+}
+#ONDE_ESTAMOS {
+    left: 1072px;
+    top: 279px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 16px;
+    line-height: 60px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(49,219,212,1);
+    letter-spacing: 2px;
+}
+#E-MAIL {
+    left: 1072px;
+    top: 200px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 16px;
+    line-height: 60px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(49,219,212,1);
+    letter-spacing: 2px;
+}
+#ATENDIMENTO {
+    left: 1072px;
+    top: 398px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 16px;
+    line-height: 60px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(49,219,212,1);
+    letter-spacing: 2px;
+}
+#REDE_SOCIAIS {
+    left: 1072px;
+    top: 498px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 16px;
+    line-height: 60px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(49,219,212,1);
+    letter-spacing: 2px;
+}
+#n_5_51_34629533 {
+    left: 1072px;
+    top: 143px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 24px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#De_segunda_a_sexta_das_08h_at_ {
+    left: 1072px;
+    top: 429px;
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    height: 35px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Av_Farroupilha_n_8001_Prdio_14 {
+    left: 1072px;
+    top: 310px;
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    height: 55px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#contatofulbraorgbr {
+    left: 1072px;
+    top: 231px;
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    height: 15px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Poltica_de_Privacidade {
+    left: 720px;
+    top: 644px;
+    position: absolute;
+    overflow: visible;
+    width: 142px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -6.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#n_2023_Todos_os_direitos_reser {
+    left: 1072px;
+    top: 644px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    line-height: 16px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Aceito_os_termos_de_uso_e_priv {
+    left: 183px;
+    top: 371px;
+    position: absolute;
+    overflow: visible;
+    width: 213px;
+    white-space: nowrap;
+    line-height: 42px;
+    margin-top: -15.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Retngulo_1950 {
+    fill: transparent;
+    stroke: rgba(97,97,104,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_1950 {
+    position: absolute;
+    overflow: visible;
+    width: 13px;
+    height: 13px;
+    left: 160px;
+    top: 371px;
+}
+#Grupo_8777 {
+    position: absolute;
+    width: 149.937px;
+    height: 21.462px;
+    left: 1072px;
+    top: 535px;
+    overflow: visible;
+}
+#Icon_awesome-facebook-f {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-f {
+    overflow: visible;
+    position: absolute;
+    width: 11.495px;
+    height: 21.462px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-youtube {
+    fill: rgba(255,255,255,1);
+}
+.Icon_simple-youtube {
+    overflow: visible;
+    position: absolute;
+    width: 24.52px;
+    height: 17.136px;
+    left: 80.755px;
+    top: 2.044px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-linkedin-in {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-linkedin-in {
+    overflow: visible;
+    position: absolute;
+    width: 21.463px;
+    height: 21.462px;
+    left: 128.474px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2 {
+    position: absolute;
+    width: 21.516px;
+    height: 21.462px;
+    left: 35.483px;
+    top: 0px;
+    overflow: visible;
+}
+#Caminho_727 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_727 {
+    overflow: visible;
+    position: absolute;
+    width: 21.516px;
+    height: 21.462px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_728 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_728 {
+    overflow: visible;
+    position: absolute;
+    width: 11.081px;
+    height: 11.081px;
+    left: 5.218px;
+    top: 5.218px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_729 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_729 {
+    overflow: visible;
+    position: absolute;
+    width: 2.582px;
+    height: 2.582px;
+    left: 15.222px;
+    top: 3.711px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#logo_2 {
+    position: absolute;
+    width: 138px;
+    height: 42px;
+    left: 160px;
+    top: 618px;
+    overflow: visible;
+}
+#Grupo_8781 {
+    position: absolute;
+    width: 202px;
+    height: 48px;
+    left: 374px;
+    top: 423px;
+    overflow: visible;
+}
+#Retngulo_1951 {
+    fill: rgba(49,219,212,1);
+}
+.Retngulo_1951 {
+    position: absolute;
+    overflow: visible;
+    width: 202px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+#Sou_Empresa {
+    left: 54px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(4,28,43,1);
+}
+#Grupo_8780 {
+    cursor: pointer;
+    position: absolute;
+    width: 202px;
+    height: 48px;
+    left: 160px;
+    top: 424px;
+    overflow: visible;
+}
+#Retngulo_1952 {
+    fill: rgba(49,219,212,1);
+}
+.Retngulo_1952 {
+    position: absolute;
+    overflow: visible;
+    width: 202px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+#Sou_Candidato {
+    left: 48px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(4,28,43,1);
+}
+#Grupo_8778 {
+    position: absolute;
+    width: 289px;
+    height: 62px;
+    left: 576px;
+    top: 2731.5px;
+    overflow: visible;
+}
+#Retngulo_5 {
+    fill: rgba(49,219,212,1);
+}
+.Retngulo_5 {
+    position: absolute;
+    overflow: visible;
+    width: 289px;
+    height: 62px;
+    left: 0px;
+    top: 0px;
+}
+#Cadastre_sua_empresa {
+    left: 63px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 165px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(4,28,43,1);
+}
+#Cadastre_sua_empresa_na_Fulbra {
+    left: 429px;
+    top: 2649.5px;
+    position: absolute;
+    overflow: visible;
+    width: 584px;
+    height: 49px;
+    line-height: 29px;
+    margin-top: -6px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(43,43,43,1);
+    letter-spacing: -0.25px;
+}
+#Encontre_o_talento_perfeito_pa {
+    left: 260px;
+    top: 2505.5px;
+    position: absolute;
+    overflow: visible;
+    width: 921px;
+    height: 111px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(0,78,255,1);
+    letter-spacing: -0.25px;
+}
+#faq {
+    position: absolute;
+    width: 1280px;
+    height: 800px;
+    left: 80px;
+    top: 1599.5px;
+    overflow: visible;
+}
+#Retngulo_14 {
+    fill: rgba(255,255,255,1);
+}
+.Retngulo_14 {
+    filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    overflow: visible;
+    width: 1430px;
+    height: 950px;
+    left: 0px;
+    top: 0px;
+}
+#Frequentes {
+    left: 272px;
+    top: 95px;
+    position: absolute;
+    overflow: visible;
+    width: 737px;
+    height: 73px;
+    line-height: 77px;
+    margin-top: -8.5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(0,78,255,1);
+    letter-spacing: -0.25px;
+}
+#PERGUNTAS {
+    left: 272px;
+    top: 83px;
+    position: absolute;
+    overflow: visible;
+    width: 737px;
+    height: 19px;
+    line-height: 77px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,78,255,1);
+    letter-spacing: 8px;
+}
+#O_que__estgio_no_obrigatrio {
+    left: 202px;
+    top: 213.5px;
+    position: absolute;
+    overflow: visible;
+    width: 295px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#Como_fao_para_enviar_meu_currc {
+    left: 202px;
+    top: 385px;
+    position: absolute;
+    overflow: visible;
+    width: 344px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#Quem_pode_ser_estagirio {
+    left: 202px;
+    top: 463px;
+    position: absolute;
+    overflow: visible;
+    width: 244px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#Quais_so_os_benefcios_do_estgi {
+    left: 202px;
+    top: 540px;
+    position: absolute;
+    overflow: visible;
+    width: 438px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#As_ausncias_do_estagirio_podem {
+    left: 202px;
+    top: 618px;
+    position: absolute;
+    overflow: visible;
+    width: 691px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#Qual_a_durao_permitida_para_a_ {
+    left: 202px;
+    top: 695px;
+    position: absolute;
+    overflow: visible;
+    width: 528px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -9px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.25px;
+}
+#Linha_39 {
+    opacity: 0.3;
+    fill: transparent;
+    stroke: rgba(188,188,188,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Linha_39 {
+    overflow: visible;
+    position: absolute;
+    width: 901.5px;
+    height: 1px;
+    left: 202.5px;
+    top: 357.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Linha_40 {
+    opacity: 0.3;
+    fill: transparent;
+    stroke: rgba(188,188,188,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Linha_40 {
+    overflow: visible;
+    position: absolute;
+    width: 901.5px;
+    height: 1px;
+    left: 202.5px;
+    top: 434.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Linha_41 {
+    opacity: 0.3;
+    fill: transparent;
+    stroke: rgba(188,188,188,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Linha_41 {
+    overflow: visible;
+    position: absolute;
+    width: 901.5px;
+    height: 1px;
+    left: 202.5px;
+    top: 512.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Linha_42 {
+    opacity: 0.3;
+    fill: transparent;
+    stroke: rgba(188,188,188,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Linha_42 {
+    overflow: visible;
+    position: absolute;
+    width: 901.5px;
+    height: 1px;
+    left: 202.5px;
+    top: 667.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Linha_43 {
+    opacity: 0.3;
+    fill: transparent;
+    stroke: rgba(188,188,188,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Linha_43 {
+    overflow: visible;
+    position: absolute;
+    width: 901.5px;
+    height: 1px;
+    left: 202.5px;
+    top: 589.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estgio__o_ato_educativo_escola {
+    left: 202px;
+    top: 259.5px;
+    position: absolute;
+    overflow: visible;
+    width: 775px;
+    height: 65px;
+    line-height: 23px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(4,28,43,1);
+    letter-spacing: -0.1px;
+}
+#icons_Q2_c {
+    transform: translate(-80px, -2400px) matrix(1,0,0,1,1163.0013,2618.4789) rotate(180deg);
+    transform-origin: center;
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Caminho_733 {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733 {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2_da {
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 1083.002px;
+    top: 468px;
+    overflow: visible;
+}
+#Caminho_733_c {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733_c {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2_db {
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 1083.002px;
+    top: 391px;
+    overflow: visible;
+}
+#Caminho_733_da {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733_da {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2_dc {
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 1083.002px;
+    top: 546px;
+    overflow: visible;
+}
+#Caminho_733_dc {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733_dc {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2_dd {
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 1083.002px;
+    top: 623px;
+    overflow: visible;
+}
+#Caminho_733_de {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733_de {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons_Q2_df {
+    position: absolute;
+    width: 20.998px;
+    height: 12.042px;
+    left: 1083.002px;
+    top: 701px;
+    overflow: visible;
+}
+#Caminho_733_dg {
+    fill: rgba(49,219,212,1);
+}
+.Caminho_733_dg {
+    overflow: visible;
+    position: absolute;
+    width: 20.999px;
+    height: 12.042px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#slider {
+    position: absolute;
+    width: 69px;
+    height: 11px;
+    left: 40px;
+    top: 749px;
+    overflow: visible;
+}
+#Elipse_1 {
+    fill: rgba(255,255,255,1);
+}
+.Elipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 0px;
+    top: 0px;
+}
+#Elipse_2 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 29px;
+    top: 0px;
+}
+#Elipse_3 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 58px;
+    top: 0px;
+}
+#topo_k {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    left: 1371px;
+    top: 732px;
+    overflow: visible;
+}
+#Elipse_571_k {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_571_k {
+    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+}
+#Icon_ionic-ios-arrow-up_k {
+    fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-arrow-up_k {
+    overflow: visible;
+    position: absolute;
+    width: 13.183px;
+    height: 7.537px;
+    left: 14.908px;
+    top: 17.732px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#fundo_banner {
+    background-image: url('assets/proxyclick-visitor-management-system-l90zRbWvCoE-unsplash.png');
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#proxyclick-visitor-management- {
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_1_dr {
+    fill: url(#Retngulo_1_dr);
+}
+.Retngulo_1_dr {
+    position: absolute;
+    overflow: visible;
+    width: 1440px;
+    height: 216px;
+    left: 0px;
+    top: 0px;
+}
+#Retngulo_2 {
+    fill: rgba(0,78,255,1);
+}
+.Retngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1440px;
+    height: 6px;
+    left: 0px;
+    top: 0px;
+}
+#Retngulo_1953_du {
+    opacity: 0.7;
+    fill: url(#Retngulo_1953_du);
+}
+.Retngulo_1953_du {
+    position: absolute;
+    overflow: visible;
+    width: 1440px;
+    height: 584px;
+    left: 0px;
+    top: 216px;
+}
+#Grupo_4 {
+    position: absolute;
+    width: 380.266px;
+    height: 380.265px;
+    left: 0px;
+    top: 419.735px;
+    overflow: visible;
+}
+#Grupo_1_dw {
+    position: absolute;
+    width: 380.266px;
+    height: 380.265px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Caminho_1_dx {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_1_dx {
+    overflow: visible;
+    position: absolute;
+    width: 380.266px;
+    height: 380.265px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_2_dy {
+    position: absolute;
+    width: 303.005px;
+    height: 303.004px;
+    left: 0px;
+    top: 77.261px;
+    overflow: visible;
+}
+#Caminho_2_dz {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_2_dz {
+    overflow: visible;
+    position: absolute;
+    width: 303.005px;
+    height: 303.004px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_3_d {
+    position: absolute;
+    width: 225.743px;
+    height: 225.744px;
+    left: 0px;
+    top: 154.522px;
+    overflow: visible;
+}
+#Caminho_3_d {
+    fill: rgba(85,242,190,1);
+}
+.Caminho_3_d {
+    overflow: visible;
+    position: absolute;
+    width: 225.743px;
+    height: 225.744px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_11 {
+    position: absolute;
+    width: 394.671px;
+    height: 633.605px;
+    left: 919.75px;
+    top: 166.395px;
+    overflow: visible;
+}
+#Grupo_5 {
+    position: absolute;
+    width: 151.837px;
+    height: 200.541px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Caminho_4 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_4 {
+    overflow: visible;
+    position: absolute;
+    width: 13.739px;
+    height: 13.503px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_5 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_5 {
+    overflow: visible;
+    position: absolute;
+    width: 27.887px;
+    height: 27.416px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_6 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_6 {
+    overflow: visible;
+    position: absolute;
+    width: 42.042px;
+    height: 41.329px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_7 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_7 {
+    overflow: visible;
+    position: absolute;
+    width: 56.198px;
+    height: 55.242px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_8 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_8 {
+    overflow: visible;
+    position: absolute;
+    width: 70.347px;
+    height: 69.148px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_9 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_9 {
+    overflow: visible;
+    position: absolute;
+    width: 84.495px;
+    height: 83.061px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_10 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_10 {
+    overflow: visible;
+    position: absolute;
+    width: 98.651px;
+    height: 96.982px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_11 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_11 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 56.79px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_12 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_12 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 61.228px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_13 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_13 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 70.711px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_14 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_14 {
+    overflow: visible;
+    position: absolute;
+    width: 51.563px;
+    height: 48.703px;
+    left: 75.384px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_15 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_15 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 84.624px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_16 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_16 {
+    overflow: visible;
+    position: absolute;
+    width: 51.563px;
+    height: 48.703px;
+    left: 89.54px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_17 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_17 {
+    overflow: visible;
+    position: absolute;
+    width: 66.371px;
+    height: 65.249px;
+    left: 0px;
+    top: 87.378px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_18 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_18 {
+    overflow: visible;
+    position: absolute;
+    width: 48.149px;
+    height: 47.33px;
+    left: 103.688px;
+    top: 1.373px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_19 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_19 {
+    overflow: visible;
+    position: absolute;
+    width: 80.527px;
+    height: 79.162px;
+    left: 0px;
+    top: 87.378px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_20 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_20 {
+    overflow: visible;
+    position: absolute;
+    width: 34.009px;
+    height: 33.432px;
+    left: 117.828px;
+    top: 15.271px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_21 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_21 {
+    overflow: visible;
+    position: absolute;
+    width: 94.683px;
+    height: 93.075px;
+    left: 0px;
+    top: 87.378px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_22 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_22 {
+    overflow: visible;
+    position: absolute;
+    width: 19.853px;
+    height: 19.512px;
+    left: 131.984px;
+    top: 29.192px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_23 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_23 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.082px;
+    left: 0px;
+    top: 140.276px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_24 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_24 {
+    overflow: visible;
+    position: absolute;
+    width: 48.65px;
+    height: 45.843px;
+    left: 60.173px;
+    top: 87.378px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_25 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_25 {
+    overflow: visible;
+    position: absolute;
+    width: 5.697px;
+    height: 5.599px;
+    left: 146.14px;
+    top: 43.105px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_26 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_26 {
+    overflow: visible;
+    position: absolute;
+    width: 47.163px;
+    height: 46.359px;
+    left: 5.834px;
+    top: 154.181px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_27 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_27 {
+    overflow: visible;
+    position: absolute;
+    width: 48.665px;
+    height: 45.843px;
+    left: 74.314px;
+    top: 87.378px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_28 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_28 {
+    overflow: visible;
+    position: absolute;
+    width: 33.007px;
+    height: 32.446px;
+    left: 19.99px;
+    top: 168.094px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_29 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_29 {
+    overflow: visible;
+    position: absolute;
+    width: 40.449px;
+    height: 39.759px;
+    left: 88.47px;
+    top: 93.462px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_30 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_30 {
+    overflow: visible;
+    position: absolute;
+    width: 18.852px;
+    height: 18.533px;
+    left: 34.145px;
+    top: 182.008px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_31 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_31 {
+    overflow: visible;
+    position: absolute;
+    width: 26.301px;
+    height: 25.854px;
+    left: 102.618px;
+    top: 107.367px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_32 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_32 {
+    overflow: visible;
+    position: absolute;
+    width: 4.703px;
+    height: 4.62px;
+    left: 48.293px;
+    top: 195.921px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_33 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_33 {
+    overflow: visible;
+    position: absolute;
+    width: 12.146px;
+    height: 11.941px;
+    left: 116.774px;
+    top: 121.28px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_6 {
+    position: absolute;
+    width: 180.49px;
+    height: 200.487px;
+    left: 106.578px;
+    top: 88.144px;
+    overflow: visible;
+}
+#Caminho_34 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_34 {
+    overflow: visible;
+    position: absolute;
+    width: 35.465px;
+    height: 34.858px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_35 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_35 {
+    overflow: visible;
+    position: absolute;
+    width: 49.614px;
+    height: 48.779px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_36 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_36 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 0px;
+    top: 8.588px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_37 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_37 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 0px;
+    top: 22.501px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_38 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_38 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 0px;
+    top: 36.414px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_39 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_39 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 0px;
+    top: 50.327px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_40 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_40 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 54.105px;
+    left: 0px;
+    top: 64.232px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_41 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_41 {
+    overflow: visible;
+    position: absolute;
+    width: 52.276px;
+    height: 53.156px;
+    left: 0.728px;
+    top: 78.153px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_42 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_42 {
+    overflow: visible;
+    position: absolute;
+    width: 7.048px;
+    height: 6.926px;
+    left: 127.486px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_43 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_43 {
+    overflow: visible;
+    position: absolute;
+    width: 50.076px;
+    height: 50.805px;
+    left: 2.928px;
+    top: 92.058px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_44 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_44 {
+    overflow: visible;
+    position: absolute;
+    width: 21.196px;
+    height: 20.832px;
+    left: 127.486px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_45 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_45 {
+    overflow: visible;
+    position: absolute;
+    width: 46.587px;
+    height: 47.201px;
+    left: 6.418px;
+    top: 105.971px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_46 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_46 {
+    overflow: visible;
+    position: absolute;
+    width: 35.344px;
+    height: 34.745px;
+    left: 127.486px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_47 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_47 {
+    overflow: visible;
+    position: absolute;
+    width: 42.262px;
+    height: 42.642px;
+    left: 11.053px;
+    top: 119.74px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_48 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_48 {
+    overflow: visible;
+    position: absolute;
+    width: 49.5px;
+    height: 48.658px;
+    left: 127.486px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_49 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_49 {
+    overflow: visible;
+    position: absolute;
+    width: 39.372px;
+    height: 39.258px;
+    left: 16.72px;
+    top: 131.317px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_50 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_50 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 127.486px;
+    top: 8.474px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_51 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_51 {
+    overflow: visible;
+    position: absolute;
+    width: 38.029px;
+    height: 37.468px;
+    left: 23.396px;
+    top: 140.329px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_52 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_52 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.105px;
+    left: 127.486px;
+    top: 22.387px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_53 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_53 {
+    overflow: visible;
+    position: absolute;
+    width: 37.977px;
+    height: 36.967px;
+    left: 31.035px;
+    top: 147.088px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_54 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_54 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.097px;
+    left: 127.486px;
+    top: 36.3px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_55 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_55 {
+    overflow: visible;
+    position: absolute;
+    width: 39.41px;
+    height: 37.878px;
+    left: 39.623px;
+    top: 151.526px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_56 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_56 {
+    overflow: visible;
+    position: absolute;
+    width: 53.004px;
+    height: 54.105px;
+    left: 127.486px;
+    top: 50.205px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_57 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_57 {
+    overflow: visible;
+    position: absolute;
+    width: 42.793px;
+    height: 40.639px;
+    left: 49.151px;
+    top: 153.165px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_58 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_58 {
+    overflow: visible;
+    position: absolute;
+    width: 53.073px;
+    height: 54.165px;
+    left: 127.417px;
+    top: 64.118px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_59 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_59 {
+    overflow: visible;
+    position: absolute;
+    width: 120.78px;
+    height: 119.141px;
+    left: 59.711px;
+    top: 78.039px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_60 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_60 {
+    overflow: visible;
+    position: absolute;
+    width: 109.097px;
+    height: 107.496px;
+    left: 71.394px;
+    top: 91.944px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_61 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_61 {
+    overflow: visible;
+    position: absolute;
+    width: 96.185px;
+    height: 94.63px;
+    left: 84.305px;
+    top: 105.857px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_62 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_62 {
+    overflow: visible;
+    position: absolute;
+    width: 80.899px;
+    height: 79.533px;
+    left: 99.523px;
+    top: 120.696px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_63 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_63 {
+    overflow: visible;
+    position: absolute;
+    width: 61.319px;
+    height: 60.28px;
+    left: 117.153px;
+    top: 137.393px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_64 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_64 {
+    overflow: visible;
+    position: absolute;
+    width: 27.621px;
+    height: 27.151px;
+    left: 141.93px;
+    top: 160.941px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_65 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_65 {
+    overflow: visible;
+    position: absolute;
+    width: 21.029px;
+    height: 20.672px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_7 {
+    position: absolute;
+    width: 148.97px;
+    height: 200.541px;
+    left: 66.045px;
+    top: 188.41px;
+    overflow: visible;
+}
+#Caminho_66 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_66 {
+    overflow: visible;
+    position: absolute;
+    width: 25.983px;
+    height: 25.543px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_67 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_67 {
+    overflow: visible;
+    position: absolute;
+    width: 40.138px;
+    height: 39.463px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_68 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_68 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 53.369px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_69 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_69 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 13.192px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_70 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_70 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 27.105px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_71 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_71 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 41.018px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_72 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_72 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 54.924px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_73 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_73 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 68.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_74 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_74 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 82.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_75 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_75 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 96.663px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_76 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_76 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 110.576px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_77 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_77 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 124.482px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_78 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_78 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 138.402px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_79 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_79 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 3.937px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_80 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_80 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 18.085px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_81 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_81 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 32.241px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_82 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_82 {
+    overflow: visible;
+    position: absolute;
+    width: 51.578px;
+    height: 48.703px;
+    left: 46.389px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_83 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_83 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 60.545px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_84 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_84 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 74.693px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_85 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_85 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 89.729px;
+    top: 151.837px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_86 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_86 {
+    overflow: visible;
+    position: absolute;
+    width: 44.212px;
+    height: 43.461px;
+    left: 104.757px;
+    top: 157.079px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_87 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_87 {
+    overflow: visible;
+    position: absolute;
+    width: 29.184px;
+    height: 28.691px;
+    left: 119.786px;
+    top: 171.85px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_88 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_88 {
+    overflow: visible;
+    position: absolute;
+    width: 14.156px;
+    height: 13.913px;
+    left: 134.814px;
+    top: 186.628px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_89 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_89 {
+    overflow: visible;
+    position: absolute;
+    width: 11.554px;
+    height: 11.356px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_8 {
+    position: absolute;
+    width: 180.46px;
+    height: 200.541px;
+    left: 206.792px;
+    top: 251.633px;
+    overflow: visible;
+}
+#Caminho_90 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_90 {
+    overflow: visible;
+    position: absolute;
+    width: 28.744px;
+    height: 28.258px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_91 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_91 {
+    overflow: visible;
+    position: absolute;
+    width: 42.9px;
+    height: 42.172px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_92 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_92 {
+    overflow: visible;
+    position: absolute;
+    width: 57.056px;
+    height: 56.092px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_93 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_93 {
+    overflow: visible;
+    position: absolute;
+    width: 71.204px;
+    height: 69.998px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_94 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_94 {
+    overflow: visible;
+    position: absolute;
+    width: 85.352px;
+    height: 83.903px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_95 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_95 {
+    overflow: visible;
+    position: absolute;
+    width: 99.508px;
+    height: 97.824px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_96 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_96 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 57.64px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_97 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_97 {
+    overflow: visible;
+    position: absolute;
+    width: 45.593px;
+    height: 42.9px;
+    left: 67.912px;
+    top: 0.076px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_98 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_98 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 71.553px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_99 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_99 {
+    overflow: visible;
+    position: absolute;
+    width: 44.144px;
+    height: 41.701px;
+    left: 82.067px;
+    top: 1.275px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_100 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_100 {
+    overflow: visible;
+    position: absolute;
+    width: 63.284px;
+    height: 62.207px;
+    left: 0px;
+    top: 77.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_101 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_101 {
+    overflow: visible;
+    position: absolute;
+    width: 41.231px;
+    height: 39.092px;
+    left: 96.215px;
+    top: 3.945px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_102 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_102 {
+    overflow: visible;
+    position: absolute;
+    width: 77.432px;
+    height: 76.12px;
+    left: 0px;
+    top: 77.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_103 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_103 {
+    overflow: visible;
+    position: absolute;
+    width: 39.213px;
+    height: 37.938px;
+    left: 108.042px;
+    top: 8.019px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_104 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_104 {
+    overflow: visible;
+    position: absolute;
+    width: 91.588px;
+    height: 90.033px;
+    left: 0px;
+    top: 77.349px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_105 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_105 {
+    overflow: visible;
+    position: absolute;
+    width: 40.366px;
+    height: 39.896px;
+    left: 115.416px;
+    top: 13.359px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_106 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_106 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.097px;
+    left: 0px;
+    top: 127.205px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_107 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_107 {
+    overflow: visible;
+    position: absolute;
+    width: 45.198px;
+    height: 42.445px;
+    left: 62.912px;
+    top: 75.012px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_108 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_108 {
+    overflow: visible;
+    position: absolute;
+    width: 46.905px;
+    height: 47.194px;
+    left: 116.008px;
+    top: 20.065px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_109 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_109 {
+    overflow: visible;
+    position: absolute;
+    width: 52.997px;
+    height: 54.089px;
+    left: 0px;
+    top: 141.118px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_110 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_110 {
+    overflow: visible;
+    position: absolute;
+    width: 91.398px;
+    height: 89.16px;
+    left: 77.06px;
+    top: 28.296px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_111 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_111 {
+    overflow: visible;
+    position: absolute;
+    width: 46.298px;
+    height: 45.517px;
+    left: 6.699px;
+    top: 155.023px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_112 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_112 {
+    overflow: visible;
+    position: absolute;
+    width: 80.967px;
+    height: 79.207px;
+    left: 91.216px;
+    top: 38.25px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_113 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_113 {
+    overflow: visible;
+    position: absolute;
+    width: 45.737px;
+    height: 42.976px;
+    left: 20.854px;
+    top: 157.565px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_114 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_114 {
+    overflow: visible;
+    position: absolute;
+    width: 68.291px;
+    height: 67.373px;
+    left: 105.023px;
+    top: 50.66px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_115 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_115 {
+    overflow: visible;
+    position: absolute;
+    width: 45.745px;
+    height: 42.976px;
+    left: 35.002px;
+    top: 157.565px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_116 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_116 {
+    overflow: visible;
+    position: absolute;
+    width: 54.264px;
+    height: 54.067px;
+    left: 115.955px;
+    top: 67.616px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_117 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_117 {
+    overflow: visible;
+    position: absolute;
+    width: 45.752px;
+    height: 42.976px;
+    left: 49.151px;
+    top: 157.565px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_118 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_118 {
+    overflow: visible;
+    position: absolute;
+    width: 31.915px;
+    height: 31.354px;
+    left: 123.374px;
+    top: 97.505px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_119 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_119 {
+    overflow: visible;
+    position: absolute;
+    width: 47.11px;
+    height: 44.318px;
+    left: 63.307px;
+    top: 156.222px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_120 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_120 {
+    overflow: visible;
+    position: absolute;
+    width: 37.9px;
+    height: 38.158px;
+    left: 125.749px;
+    top: 102.99px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_121 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_121 {
+    overflow: visible;
+    position: absolute;
+    width: 93.227px;
+    height: 90.731px;
+    left: 77.455px;
+    top: 109.81px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_122 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_122 {
+    overflow: visible;
+    position: absolute;
+    width: 83.85px;
+    height: 81.794px;
+    left: 92.483px;
+    top: 118.746px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_123 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_123 {
+    overflow: visible;
+    position: absolute;
+    width: 72.137px;
+    height: 70.612px;
+    left: 107.549px;
+    top: 129.898px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_124 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_124 {
+    overflow: visible;
+    position: absolute;
+    width: 56.487px;
+    height: 55.531px;
+    left: 123.973px;
+    top: 143.606px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_125 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_125 {
+    overflow: visible;
+    position: absolute;
+    width: 31.885px;
+    height: 31.346px;
+    left: 145.04px;
+    top: 161.859px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_126 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_126 {
+    overflow: visible;
+    position: absolute;
+    width: 14.315px;
+    height: 14.072px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9 {
+    position: absolute;
+    width: 180.483px;
+    height: 200.54px;
+    left: 7.146px;
+    top: 398.972px;
+    overflow: visible;
+}
+#Caminho_127 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_127 {
+    overflow: visible;
+    position: absolute;
+    width: 31.369px;
+    height: 30.838px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_128 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_128 {
+    overflow: visible;
+    position: absolute;
+    width: 45.525px;
+    height: 44.751px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_129 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_129 {
+    overflow: visible;
+    position: absolute;
+    width: 59.673px;
+    height: 58.664px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_130 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_130 {
+    overflow: visible;
+    position: absolute;
+    width: 73.821px;
+    height: 72.577px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_131 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_131 {
+    overflow: visible;
+    position: absolute;
+    width: 87.977px;
+    height: 86.482px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_132 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_132 {
+    overflow: visible;
+    position: absolute;
+    width: 102.118px;
+    height: 100.403px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_133 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_133 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 54.105px;
+    left: 0px;
+    top: 60.211px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_134 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_134 {
+    overflow: visible;
+    position: absolute;
+    width: 50.554px;
+    height: 47.937px;
+    left: 64.71px;
+    top: 0.766px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_135 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_135 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 54.097px;
+    left: 0px;
+    top: 74.125px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_136 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_136 {
+    overflow: visible;
+    position: absolute;
+    width: 48.112px;
+    height: 45.722px;
+    left: 78.858px;
+    top: 2.981px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_137 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_137 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 54.097px;
+    left: 0px;
+    top: 88.038px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_138 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_138 {
+    overflow: visible;
+    position: absolute;
+    width: 44.402px;
+    height: 42.247px;
+    left: 93.014px;
+    top: 6.456px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_139 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_139 {
+    overflow: visible;
+    position: absolute;
+    width: 65.476px;
+    height: 64.369px;
+    left: 0px;
+    top: 91.679px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_140 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_140 {
+    overflow: visible;
+    position: absolute;
+    width: 40.283px;
+    height: 38.705px;
+    left: 106.457px;
+    top: 11.061px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_141 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_141 {
+    overflow: visible;
+    position: absolute;
+    width: 79.632px;
+    height: 78.282px;
+    left: 0px;
+    top: 91.679px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_142 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_142 {
+    overflow: visible;
+    position: absolute;
+    width: 38.568px;
+    height: 37.635px;
+    left: 116.509px;
+    top: 16.629px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_143 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_143 {
+    overflow: visible;
+    position: absolute;
+    width: 93.78px;
+    height: 92.195px;
+    left: 0px;
+    top: 91.679px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_144 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_144 {
+    overflow: visible;
+    position: absolute;
+    width: 38.985px;
+    height: 38.644px;
+    left: 123.419px;
+    top: 23.199px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_145 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_145 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 54.105px;
+    left: 0px;
+    top: 143.682px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_146 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_146 {
+    overflow: visible;
+    position: absolute;
+    width: 53.005px;
+    height: 50.114px;
+    left: 56.365px;
+    top: 90.268px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_147 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_147 {
+    overflow: visible;
+    position: absolute;
+    width: 43.059px;
+    height: 43.507px;
+    left: 125.62px;
+    top: 30.785px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_148 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_148 {
+    overflow: visible;
+    position: absolute;
+    width: 43.689px;
+    height: 42.945px;
+    left: 9.316px;
+    top: 157.595px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_149 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_149 {
+    overflow: visible;
+    position: absolute;
+    width: 106.244px;
+    height: 105.046px;
+    left: 67.616px;
+    top: 39.448px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_150 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_150 {
+    overflow: visible;
+    position: absolute;
+    width: 29.533px;
+    height: 29.032px;
+    left: 23.472px;
+    top: 171.508px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_151 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_151 {
+    overflow: visible;
+    position: absolute;
+    width: 104.925px;
+    height: 103.946px;
+    left: 72.843px;
+    top: 49.325px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_152 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_152 {
+    overflow: visible;
+    position: absolute;
+    width: 15.385px;
+    height: 15.119px;
+    left: 37.62px;
+    top: 185.421px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_153 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_153 {
+    overflow: visible;
+    position: absolute;
+    width: 102.019px;
+    height: 101.336px;
+    left: 78.062px;
+    top: 60.712px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_154 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_154 {
+    overflow: visible;
+    position: absolute;
+    width: 1.229px;
+    height: 1.206px;
+    left: 51.776px;
+    top: 199.334px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_155 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_155 {
+    overflow: visible;
+    position: absolute;
+    width: 97.095px;
+    height: 96.716px;
+    left: 83.289px;
+    top: 74.109px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_156 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_156 {
+    overflow: visible;
+    position: absolute;
+    width: 88.455px;
+    height: 88.083px;
+    left: 88.758px;
+    top: 91.148px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_157 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_157 {
+    overflow: visible;
+    position: absolute;
+    width: 37.089px;
+    height: 36.3px;
+    left: 95.404px;
+    top: 150.13px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_158 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_158 {
+    overflow: visible;
+    position: absolute;
+    width: 38.409px;
+    height: 37.066px;
+    left: 103.847px;
+    top: 155.646px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_159 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_159 {
+    overflow: visible;
+    position: absolute;
+    width: 41.527px;
+    height: 39.372px;
+    left: 113.838px;
+    top: 158.073px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_160 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_160 {
+    overflow: visible;
+    position: absolute;
+    width: 44.652px;
+    height: 42.126px;
+    left: 125.749px;
+    top: 158.073px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_161 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_161 {
+    overflow: visible;
+    position: absolute;
+    width: 40.283px;
+    height: 39.6px;
+    left: 140.2px;
+    top: 160.941px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_162 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_162 {
+    overflow: visible;
+    position: absolute;
+    width: 24.602px;
+    height: 24.185px;
+    left: 155.881px;
+    top: 176.356px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_163 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_163 {
+    overflow: visible;
+    position: absolute;
+    width: 8.922px;
+    height: 8.77px;
+    left: 171.562px;
+    top: 191.771px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_164 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_164 {
+    overflow: visible;
+    position: absolute;
+    width: 16.932px;
+    height: 16.652px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10 {
+    position: absolute;
+    width: 202.505px;
+    height: 200.541px;
+    left: 192.166px;
+    top: 433.064px;
+    overflow: visible;
+}
+#Caminho_165 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_165 {
+    overflow: visible;
+    position: absolute;
+    width: 33.455px;
+    height: 32.886px;
+    left: 45.206px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_166 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_166 {
+    overflow: visible;
+    position: absolute;
+    width: 52.754px;
+    height: 51.867px;
+    left: 40.055px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_167 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_167 {
+    overflow: visible;
+    position: absolute;
+    width: 72.061px;
+    height: 70.84px;
+    left: 34.904px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_168 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_168 {
+    overflow: visible;
+    position: absolute;
+    width: 91.36px;
+    height: 89.813px;
+    left: 29.753px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_169 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_169 {
+    overflow: visible;
+    position: absolute;
+    width: 110.667px;
+    height: 108.793px;
+    left: 24.602px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_170 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_170 {
+    overflow: visible;
+    position: absolute;
+    width: 71.621px;
+    height: 72.402px;
+    left: 19.451px;
+    top: 55.364px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_171 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_171 {
+    overflow: visible;
+    position: absolute;
+    width: 51.571px;
+    height: 48.703px;
+    left: 97.846px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_172 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_172 {
+    overflow: visible;
+    position: absolute;
+    width: 71.886px;
+    height: 72.66px;
+    left: 14.3px;
+    top: 74.079px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_173 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_173 {
+    overflow: visible;
+    position: absolute;
+    width: 42.065px;
+    height: 41.853px;
+    left: 112.002px;
+    top: 7.768px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_174 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_174 {
+    overflow: visible;
+    position: absolute;
+    width: 72.16px;
+    height: 72.933px;
+    left: 9.149px;
+    top: 92.786px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_175 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_175 {
+    overflow: visible;
+    position: absolute;
+    width: 41.474px;
+    height: 41.952px;
+    left: 115.575px;
+    top: 18.745px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_176 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_176 {
+    overflow: visible;
+    position: absolute;
+    width: 72.425px;
+    height: 73.191px;
+    left: 3.998px;
+    top: 111.502px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_177 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_177 {
+    overflow: visible;
+    position: absolute;
+    width: 41.565px;
+    height: 42.035px;
+    left: 118.466px;
+    top: 29.73px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_178 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_178 {
+    overflow: visible;
+    position: absolute;
+    width: 89.464px;
+    height: 85.951px;
+    left: 0px;
+    top: 114.589px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_179 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_179 {
+    overflow: visible;
+    position: absolute;
+    width: 41.663px;
+    height: 42.126px;
+    left: 121.348px;
+    top: 40.715px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_180 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_180 {
+    overflow: visible;
+    position: absolute;
+    width: 89.471px;
+    height: 85.951px;
+    left: 14.148px;
+    top: 114.589px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_181 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_181 {
+    overflow: visible;
+    position: absolute;
+    width: 41.754px;
+    height: 42.217px;
+    left: 124.239px;
+    top: 51.692px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_182 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_182 {
+    overflow: visible;
+    position: absolute;
+    width: 34.237px;
+    height: 33.66px;
+    left: 28.304px;
+    top: 166.881px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_183 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_183 {
+    overflow: visible;
+    position: absolute;
+    width: 48.658px;
+    height: 45.836px;
+    left: 69.11px;
+    top: 114.589px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_184 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_184 {
+    overflow: visible;
+    position: absolute;
+    width: 41.845px;
+    height: 42.308px;
+    left: 127.129px;
+    top: 62.669px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_185 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_185 {
+    overflow: visible;
+    position: absolute;
+    width: 15.476px;
+    height: 15.21px;
+    left: 42.46px;
+    top: 185.33px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_186 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_186 {
+    overflow: visible;
+    position: absolute;
+    width: 88.69px;
+    height: 86.771px;
+    left: 83.266px;
+    top: 73.654px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_187 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_187 {
+    overflow: visible;
+    position: absolute;
+    width: 77.516px;
+    height: 75.786px;
+    left: 97.421px;
+    top: 84.639px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_188 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_188 {
+    overflow: visible;
+    position: absolute;
+    width: 66.349px;
+    height: 64.801px;
+    left: 111.57px;
+    top: 95.624px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_189 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_189 {
+    overflow: visible;
+    position: absolute;
+    width: 55.182px;
+    height: 53.824px;
+    left: 125.718px;
+    top: 106.601px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_190 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_190 {
+    overflow: visible;
+    position: absolute;
+    width: 44.007px;
+    height: 43.15px;
+    left: 139.874px;
+    top: 117.586px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_191 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_191 {
+    overflow: visible;
+    position: absolute;
+    width: 42.885px;
+    height: 43.332px;
+    left: 143.978px;
+    top: 128.57px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_192 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_192 {
+    overflow: visible;
+    position: absolute;
+    width: 43.074px;
+    height: 43.522px;
+    left: 146.77px;
+    top: 139.548px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_193 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_193 {
+    overflow: visible;
+    position: absolute;
+    width: 43.271px;
+    height: 43.727px;
+    left: 149.736px;
+    top: 151.208px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_194 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_194 {
+    overflow: visible;
+    position: absolute;
+    width: 38.735px;
+    height: 37.665px;
+    left: 157.436px;
+    top: 162.875px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_195 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_195 {
+    overflow: visible;
+    position: absolute;
+    width: 26.885px;
+    height: 26.005px;
+    left: 172.456px;
+    top: 174.535px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_196 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_196 {
+    overflow: visible;
+    position: absolute;
+    width: 15.013px;
+    height: 14.338px;
+    left: 187.492px;
+    top: 186.203px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_197 {
+    fill: rgba(255,255,255,1);
+}
+.Caminho_197 {
+    overflow: visible;
+    position: absolute;
+    width: 13.761px;
+    height: 13.526px;
+    left: 50.463px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#chamada {
+    position: absolute;
+    width: 654px;
+    height: 342px;
+    left: 154px;
+    top: 247px;
+    overflow: visible;
+}
+#Encontre_a_oportunidade_perfei {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 655px;
+    height: 264px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Grupo_8799 {
+    position: absolute;
+    width: 62px;
+    height: 12px;
+    left: 315px;
+    top: 363px;
+    overflow: visible;
+}
+#Elipse_573 {
+    fill: rgba(255,255,255,1);
+}
+.Elipse_573 {
+    position: absolute;
+    overflow: visible;
+    width: 12px;
+    height: 12px;
+    left: 0px;
+    top: 0px;
+}
+#Elipse_574 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_574 {
+    position: absolute;
+    overflow: visible;
+    width: 12px;
+    height: 12px;
+    left: 25px;
+    top: 0px;
+}
+#Elipse_575 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_575 {
+    position: absolute;
+    overflow: visible;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+    top: 0px;
+}
+#Grupo_13 {
+    cursor: pointer;
+    position: absolute;
+    width: 273px;
+    height: 53px;
+    left: 6px;
+    top: 340px;
+    overflow: visible;
+}
+#Retngulo_5_ju {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_5_ju {
+    position: absolute;
+    overflow: visible;
+    width: 273px;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+}
+#Cadastre_uma_vaga {
+    left: 58px;
+    top: 17px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(0,78,255,1);
+}
+#solues {
+    position: absolute;
+    width: 1280px;
+    height: 633px;
+    left: 80px;
+    top: 874.5px;
+    overflow: visible;
+}
+#Nossas_Solues {
+    left: 80px;
+    top: 29px;
+    position: absolute;
+    overflow: visible;
+    width: 737px;
+    height: 73px;
+    line-height: 77px;
+    margin-top: -8.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 60px;
+    color: rgba(0,78,255,1);
+    letter-spacing: -0.25px;
+}
+#Grupo_8789 {
+    position: absolute;
+    width: 300px;
+    height: 460px;
+    left: 0px;
+    top: 173px;
+    overflow: visible;
+}
+#shutterstock_794028424 {
+    filter: drop-shadow(0px 15px 30px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    width: 300px;
+    height: 430px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_9_j {
+    fill: url(#Retngulo_9_j);
+}
+.Retngulo_9_j {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 214px;
+    left: 0px;
+    top: 216px;
+}
+#Desenvolvimento_de_supervisore {
+    left: 32px;
+    top: 298px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 82px;
+    line-height: 26px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Elipse_4 {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_4 {
+    filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    height: 120px;
+    left: 32px;
+    top: 400px;
+}
+#n_ {
+    left: 32px;
+    top: 418px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 24px;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Grupo_8790 {
+    position: absolute;
+    width: 300px;
+    height: 460px;
+    left: 327px;
+    top: 173px;
+    overflow: visible;
+}
+#shutterstock_776540299 {
+    filter: drop-shadow(0px 15px 30px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    width: 300px;
+    height: 430px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_10_j {
+    fill: url(#Retngulo_10_j);
+}
+.Retngulo_10_j {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 214px;
+    left: 0px;
+    top: 216px;
+}
+#Desenvolvimento_dos_estagirios {
+    left: 32px;
+    top: 324px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 56px;
+    line-height: 26px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Elipse_5 {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_5 {
+    filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    height: 120px;
+    left: 32px;
+    top: 400px;
+}
+#n__kb {
+    left: 32px;
+    top: 418px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 24px;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Grupo_8791 {
+    position: absolute;
+    width: 300px;
+    height: 460px;
+    left: 653px;
+    top: 173px;
+    overflow: visible;
+}
+#shutterstock_502885909 {
+    filter: drop-shadow(0px 15px 30px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    width: 300px;
+    height: 430px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_11_kf {
+    fill: url(#Retngulo_11_kf);
+}
+.Retngulo_11_kf {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 214px;
+    left: 0px;
+    top: 216px;
+}
+#Pesquisa_de_desligamento {
+    left: 32px;
+    top: 324.872px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 56px;
+    line-height: 26px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Elipse_6 {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_6 {
+    filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    height: 120px;
+    left: 32px;
+    top: 400px;
+}
+#n__ki {
+    left: 32px;
+    top: 418px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 24px;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Grupo_8792 {
+    position: absolute;
+    width: 300px;
+    height: 460px;
+    left: 980px;
+    top: 173px;
+    overflow: visible;
+}
+#shutterstock_1060846625 {
+    filter: drop-shadow(0px 15px 30px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    width: 300px;
+    height: 430px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_12_km {
+    fill: url(#Retngulo_12_km);
+}
+.Retngulo_12_km {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 214px;
+    left: 0px;
+    top: 216px;
+}
+#Assistncia_administrativa_jurd {
+    left: 32px;
+    top: 298px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 82px;
+    line-height: 26px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Elipse_7 {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_7 {
+    filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.2));
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    height: 120px;
+    left: 32px;
+    top: 400px;
+}
+#n__kp {
+    left: 32px;
+    top: 418px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 24px;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.25px;
+}
+#Com_uma_abordagem_personalizad {
+    left: 730px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 417px;
+    height: 91px;
+    line-height: 24px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(43,43,43,1);
+    letter-spacing: -0.25px;
+}
+#menu {
+    position: absolute;
+    width: 1360px;
+    height: 51.565px;
+    left: 40px;
+    top: 35px;
+    overflow: visible;
+}
+#logo_2_ks {
+    position: absolute;
+    width: 160px;
+    height: 48.565px;
+    left: 0px;
+    top: 3px;
+    overflow: visible;
+}
+#Nossas_Solues_kt {
+    left: 301px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Fale_Conosco_ku {
+    left: 721px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Fulbra_kv {
+    left: 852px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Perguntas_Frequentes_kw {
+    left: 456px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Blog_kx {
+    left: 652px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_8787 {
+    position: absolute;
+    width: 157px;
+    height: 48px;
+    left: 1100px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_3 {
+    fill: rgba(255,255,255,1);
+}
+.Retngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 157px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+#Sou_Empresa_k {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(0,78,255,1);
+}
+#Grupo_8804 {
+    position: absolute;
+    width: 157px;
+    height: 48px;
+    left: 935px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_3_k {
+    fill: rgba(255,255,255,1);
+}
+.Retngulo_3_k {
+    position: absolute;
+    overflow: visible;
+    width: 157px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+#Sou_Candidato_k {
+    left: 25px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(0,78,255,1);
+}
+#Grupo_8788 {
+    position: absolute;
+    width: 95px;
+    height: 48px;
+    left: 1265px;
+    top: 0px;
+    overflow: visible;
+}
+#Retngulo_4_k {
+    fill: rgba(49,219,212,1);
+}
+.Retngulo_4_k {
+    position: absolute;
+    overflow: visible;
+    width: 95px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+#Login {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#topo_k {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    left: 1371px;
+    top: 732px;
+    overflow: visible;
+}
+#Elipse_571_k {
+    fill: rgba(0,78,255,1);
+}
+.Elipse_571_k {
+    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+}
+#Icon_ionic-ios-arrow-up_k {
+    fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-arrow-up_k {
+    overflow: visible;
+    position: absolute;
+    width: 13.183px;
+    height: 7.537px;
+    left: 14.908px;
+    top: 17.732px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#whats {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    left: 1371px;
+    top: 680px;
+    overflow: visible;
+}
+#Elipse_572 {
+    fill: rgba(49,219,212,1);
+}
+.Elipse_572 {
+    filter: drop-shadow(0px 20px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+}
+#Icon_awesome-whatsapp {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-whatsapp {
+    overflow: visible;
+    position: absolute;
+    width: 20.042px;
+    height: 20.042px;
+    left: 11.479px;
+    top: 11.479px;
+    transform: matrix(1,0,0,1,0,0);
+}
